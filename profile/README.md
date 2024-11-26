@@ -3,6 +3,8 @@
 # TWO SHOTS are Enough!
 ### 2024-2 Fall YAICON: CGMaker with sparse 3DGS
 
+Figure, Result WIP
+
 
 # Repositories 👀
 
