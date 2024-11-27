@@ -1,11 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThree-Shots-Are-Enough&count_bg=%238966FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# TWO SHOTS are Enough!
-### 2024-2 5th YAICON: CGMaker with sparse 3DGS
+# 🔫 TWO SHOTS are Enough!
+### 2024 Fall 5th YAICON: CGMaker with sparse 3DGS
 
 <p align="center">
-  <img src="../assets/yaicon_timestep1_true.gif" alt="Timestep1 GIF" width="50%" />
-  <img src="../assets/result-git.gif" alt="Dynamic Result GIF" width="50%" />
+  <img src="../assets/yaicon_timestep1_true.gif" alt="Timestep1 GIF" width="45%" />
+  <img src="../assets/result-git.gif" alt="Dynamic Result GIF" width="45%" />
 </p>
 
 ![Pipeline](../assets/Total_Pipeline.png)
@@ -26,9 +26,7 @@
 - Inpaint-Anything
 - AnyV2V
 
-# Project References 📄
-
-WIP
+#### All references are provided in each repository
 
 # Members 👋
 
@@ -37,7 +35,6 @@ WIP
 
 ### [박승호 Seungho Park](https://github.com/Nugu-ai)
 
-
 ### [박준형 Junhyeong Park](https://github.com/jun-brro)
 
 
@@ -45,5 +42,3 @@ WIP
 
 
 ### [안진형 Jinhyeong Ahn](https://github.com/Jinjinjinnn)
-
-
