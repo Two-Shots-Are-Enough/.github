@@ -3,8 +3,12 @@
 # TWO SHOTS are Enough!
 ### 2024-2 5th YAICON: CGMaker with sparse 3DGS
 
-Figure, Result WIP
+<p align="center">
+  <img src="../assets/yaicon_timestep1_true.gif" alt="Timestep1 GIF" width="45%" />
+  <img src="../assets/result-git.gif" alt="Dynamic Result GIF" width="45%" />
+</p>
 
+![Pipeline](../assets/Total_Pipeline.png)
 
 # Repositories 👀
 
