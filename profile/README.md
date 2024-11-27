@@ -4,8 +4,8 @@
 ### 2024-2 5th YAICON: CGMaker with sparse 3DGS
 
 <p align="center">
-  <img src="../assets/yaicon_timestep1_true.gif" alt="Timestep1 GIF" width="45%" />
-  <img src="../assets/result-git.gif" alt="Dynamic Result GIF" width="45%" />
+  <img src="../assets/yaicon_timestep1_true.gif" alt="Timestep1 GIF" width="50%" />
+  <img src="../assets/result-git.gif" alt="Dynamic Result GIF" width="50%" />
 </p>
 
 ![Pipeline](../assets/Total_Pipeline.png)
