@@ -4,8 +4,9 @@
 ### 🏆 2024 Fall 5th YAICON GRAND PRIZE
 
 <p align="center">
-  <img src="../assets/yaicon_timestep1_true.gif" alt="Timestep1 GIF" width="45%" />
-  <img src="../assets/result-git.gif" alt="Dynamic Result GIF" width="45%" />
+  <img src="../assets/yaicon_timestep1_true.gif" alt="Timestep1 GIF" width="31%" />
+  <img src="../assets/result-git.gif" alt="Dynamic Result GIF" width="31%" />
+  <img src="../assets/edited_video.gif" alt="Edited Result GIF" width="28.4%" />
 </p>
 
 ![Pipeline](../assets/Total_Pipeline.png)
