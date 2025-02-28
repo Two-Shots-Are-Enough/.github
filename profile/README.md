@@ -42,4 +42,4 @@
 ### [배경덕 Gyeongdeok Bae](https://github.com/bgduck33)
 
 
-### [안진형 Jinhyeong Ahn](https://github.com/Jinjinjinnn)
+### [안진형 Jinhyung Ahn](https://github.com/Jinjinjinnn)
